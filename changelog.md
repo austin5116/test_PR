@@ -15,9 +15,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.2] - 2014-07-10
 
-### Added
-
-- Explanation of the recommended reverse chronological release ordering.
 
 ## [0.0.1] - 2014-05-31
 
@@ -31,5 +28,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Counter-examples: "What makes unicorns cry?".
 
 [unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v1.1.1...HEAD
-[0.0.2]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1...v0.0.2
-[0.0.1]: https://github.com/olivierlacan/keep-a-changelog/releases/tag/v0.0.1
+[0.0.1]:https://github.com/austin5116/test_PR/tree/8abb6237038c42a1fd8000696926106df57d09c4
